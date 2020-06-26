@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
+            <state relative-caret-position="416">
+              <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -31,8 +31,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="62" column="148" selection-start-line="62" selection-start-column="148" selection-end-line="62" selection-end-column="148" />
+            <state relative-caret-position="181">
+              <caret line="147" column="84" lean-forward="true" selection-start-line="147" selection-start-column="84" selection-end-line="147" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -40,13 +49,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
+            <state relative-caret-position="700">
+              <caret line="122" column="26" lean-forward="true" selection-start-line="112" selection-start-column="20" selection-end-line="122" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>form</find>
+      <find>card</find>
+      <find>&lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;Reserve&lt;/button&gt;</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,14 +72,15 @@
       <list>
         <option value="$PROJECT_DIR$/aboutus.html" />
         <option value="$PROJECT_DIR$/contactus.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="708" />
-    <option name="y" value="23" />
-    <option name="width" value="732" />
+    <option name="x" value="118" />
+    <option name="y" value="110" />
+    <option name="width" value="1269" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -71,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,11 +96,20 @@
               <item name="conFusion" type="b2602c69:ProjectViewProjectNode" />
               <item name="conFusion" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="conFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,17 +146,18 @@
       <workItem from="1593028468723" duration="3920000" />
       <workItem from="1593185885920" duration="754000" />
       <workItem from="1593191146623" duration="1062000" />
+      <workItem from="1593193294263" duration="7975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6631000" />
+    <option name="totallyTimeSpent" value="14606000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="23" width="732" height="877" extended-state="0" />
+    <frame x="118" y="110" width="1269" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.04016064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1597392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,24 +186,31 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aboutus.html">
+    <entry file="file://$PROJECT_DIR$/contactus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
+        <state relative-caret-position="700">
+          <caret line="122" column="26" lean-forward="true" selection-start-line="112" selection-start-column="20" selection-end-line="122" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactus.html">
+    <entry file="file://$PROJECT_DIR$/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
+        <state relative-caret-position="416">
+          <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="62" column="148" selection-start-line="62" selection-start-column="148" selection-end-line="62" selection-end-column="148" />
+        <state relative-caret-position="181">
+          <caret line="147" column="84" lean-forward="true" selection-start-line="147" selection-start-column="84" selection-end-line="147" selection-end-column="84" />
         </state>
       </provider>
     </entry>
